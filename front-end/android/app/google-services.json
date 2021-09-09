@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394957634529",
+    "firebase_url": "https://scila-alertnotification.firebaseio.com",
+    "project_id": "scila-alertnotification",
+    "storage_bucket": "scila-alertnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394957634529:android:d2c1c1fa123dba68",
+        "android_client_info": {
+          "package_name": "com.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394957634529-1h7o7mu7g8cf1j6g1fpste9vp6hboeue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4TRK4MXWChmr3lhHuhuLvpC-SbGIrfN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394957634529-1h7o7mu7g8cf1j6g1fpste9vp6hboeue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394957634529-ksc67e1ku8jbdg99i9i62b75ffabb8bo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sebastianzeerak.push-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
