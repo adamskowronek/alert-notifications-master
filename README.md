@@ -1,4 +1,4 @@
-Project for Scila AB by KTH students in Computer Engineering
+# Project for Scila AB by KTH students in Computer Engineering
 
 * Front-end mobile application written in React Native
 
